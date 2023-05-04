@@ -16,3 +16,5 @@ function playSound() {
 }
 
 playButton.addEventListener("click", playSound);
+
+console.log('Hello! I hope you are having a nice day.');
